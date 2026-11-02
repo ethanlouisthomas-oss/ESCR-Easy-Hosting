@@ -10,7 +10,8 @@ A lightweight Roblox revival packaged into an automated batch script to streamli
 
 > 🚨 **KNOWN ISSUE: RENDERS ARE CURRENTLY BROKEN**
 > Please note that the rendering system is currently not working in this release. A separate `.bat` script update will be posted shortly to fix this issue!
-
+> 
+🚨 **KNOWN ISSUE: GAME SEVERS ALSO DONT WORK! ILL GIVE A FIX SOON.**
 ---
 
 ## Instructions & How to Install
