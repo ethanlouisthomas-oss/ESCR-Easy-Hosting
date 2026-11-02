@@ -6,7 +6,7 @@ A lightweight Roblox revival packaged into an automated batch script to streamli
 > This project is **NOT SAFE** or secure to host publicly or share with other users. Run it strictly on your local machine (`localhost`) for personal use/testing only!
 
 > 🤖 **BUILT WITH CLAUDE**
-> This project was built using Claude AI.
+> This project was built using Claude AI. But claude did not fully build this thing he helped me.
 
 > 🚨 **KNOWN ISSUE: RENDERS ARE CURRENTLY BROKEN**
 > Please note that the rendering system is currently not working in this release. A separate `.bat` script update will be posted shortly to fix this issue!
