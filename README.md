@@ -21,7 +21,7 @@ A lightweight Roblox revival packaged into an automated batch script to streamli
 
 
 3. **Access the Revival:**
-* Once the screen turns white, go to `http://localhost:5000` in your browser.
+* Once the screen show white command lines, go to `http://localhost:5000` in your browser.
 * *Note:* The frontend is loaded, but you cannot sign into it or interact with accounts yet.
 
 
