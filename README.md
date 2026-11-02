@@ -4,7 +4,12 @@ A lightweight Roblox revival packaged into an automated batch script to streamli
 
 > ⚠️ **CRITICAL WARNING: DO NOT HOST THIS FOR OTHERS!**
 > This project is **NOT SAFE** or secure to host publicly or share with other users. Run it strictly on your local machine (`localhost`) for personal use/testing only!
-
+>
+> > ⚠️ **CRITICAL WARNING: BUILT WITH AI!**
+> This project is was **Built with CLAUDE**. okay?
+> >
+> > 🚨 **KNOWN ISSUE: RENDERS ARE CURRENTLY BROKEN**
+Please note that the rendering system is currently not working in this release. A separate .bat script update will be posted shortly to fix this issue!
 ---
 
 ## Instructions & How to Install
