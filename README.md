@@ -30,12 +30,17 @@ A lightweight Roblox revival packaged into an automated batch script to streamli
 4. **Access the Revival:**
    * Once the screen shows white command lines, go to `http://localhost:5000` in your browser.
    * *Note:* The frontend is loaded, but you cannot sign into it or interact with accounts yet.
+   * 
+<img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/7693e516-af70-4204-bce8-a79eed7c2f1a" />
 
 5. **Submit an Application:**
    * To gain access, submit an application on the site.
-   * Your application will be **automatically approved** right away!
+   * <img width="711" height="500" alt="image" src="https://github.com/user-attachments/assets/d6f388b6-a104-45d6-aa2a-e5273985d0bd" />
 
-<img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/7693e516-af70-4204-bce8-a79eed7c2f1a" />
+   * Your application will be **automatically approved** right away!
+  I don't have a photo for that.
+   * 
+
 
 ---
 
