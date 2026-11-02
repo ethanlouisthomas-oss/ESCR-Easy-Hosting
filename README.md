@@ -38,8 +38,9 @@ A lightweight Roblox revival packaged into an automated batch script to streamli
    * <img width="711" height="500" alt="image" src="https://github.com/user-attachments/assets/d6f388b6-a104-45d6-aa2a-e5273985d0bd" />
 
    * Your application will be **automatically approved** right away!
-  I don't have a photo for that.
-   * 
+    <img width="724" height="445" alt="image" src="https://github.com/user-attachments/assets/1ebf1d32-8f25-4f4e-9e77-ece7b0d3691b" />
+
+   **SIDE NOTE: IT WILL NOT SAY LOCLHOST BUT CLICKING ON IT WILL SIGN U UP ANYWAYS!!!!**
 
 
 ---
