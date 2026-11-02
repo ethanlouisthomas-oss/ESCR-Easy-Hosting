@@ -14,18 +14,21 @@ Please note that the rendering system is currently not working in this release. 
 
 ## Instructions & How to Install
 
-1. **Run the Script:**
-* Download the `.bat` file and start it.
-* **MAKE SURE YOU KEEP THE `.BAT` WINDOW OPEN AT ALL TIMES!** It displays crucial live instructions and keeps the local services running.
+1. **Install the Script:**
+   Install both files and extract the zip file.
+
+2. **Run the Script:**
+* Download the `.bat` file and put it in the folder where the **services** folder is. if you dont know where that is the script will tell you.
+ **MAKE SURE YOU KEEP THE `.BAT` WINDOW OPEN AT ALL TIMES!** It displays crucial live instructions and keeps the local services running.
 
 
-2. **Wait for the Web Server:**
+3. **Wait for the Web Server:**
 * After downloads finish, the script will display `localhost:5000`.
 * **It will NOT respond immediately!** You must wait for the web server to start up.
 * Watch the web service window: it will show **yellow warning signs** first, and then turn **white**.
 
 
-3. **Access the Revival:**
+4. **Access the Revival:**
 * Once the screen show white command lines, go to `http://localhost:5000` in your browser.
 * *Note:* The frontend is loaded, but you cannot sign into it or interact with accounts yet.
 
